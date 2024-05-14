@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alientek/ZAT/Applications/32_cmake/32多个源文件/hello.c
+stdio.h
+-
+hello.h
+/home/alientek/ZAT/Applications/32_cmake/32多个源文件/hello.h
+
+/home/alientek/ZAT/Applications/32_cmake/32多个源文件/hello.h
+
+/home/alientek/ZAT/Applications/32_cmake/32多个源文件/main.c
+hello.h
+/home/alientek/ZAT/Applications/32_cmake/32多个源文件/hello.h
+

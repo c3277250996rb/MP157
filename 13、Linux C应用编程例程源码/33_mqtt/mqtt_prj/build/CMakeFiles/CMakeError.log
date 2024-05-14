@@ -1,0 +1,20 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/bin/arm-ostl-linux-gnueabi/arm-ostl-linux-gnueabi-gcc 
+Build flags: -mthumb;-mfpu=neon-vfpv4;-mfloat-abi=hard;-mcpu=cortex-a7
+Id flags:  
+
+The output was:
+1
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crt1.o: No such file or directory
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crti.o: No such file or directory
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crtbegin.o: No such file or directory
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lgcc
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lgcc_s
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lc
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lgcc
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lgcc_s
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crtend.o: No such file or directory
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crtn.o: No such file or directory
+collect2: error: ld returned 1 exit status
+
+

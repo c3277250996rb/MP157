@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libhello/hello.h
+
+/home/alientek/ZAT/Applications/32_cmake/34组织到不同目录/src/main.c
+hello.h
+/home/alientek/ZAT/Applications/32_cmake/34组织到不同目录/src/hello.h
+

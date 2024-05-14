@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=/home/peng/ZAT/zat_bash/ifconfig_zat.sh
+Name=MyScript
+Comment=This is a script shortcut
+
+Name[zh_CN]=ifconfig

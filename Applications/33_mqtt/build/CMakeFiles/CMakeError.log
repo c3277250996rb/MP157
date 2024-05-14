@@ -1,0 +1,63 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/bin/arm-ostl-linux-gnueabi/arm-ostl-linux-gnueabi-gcc 
+Build flags: -mthumb;-mfpu=neon-vfpv4;-mfloat-abi=hard;-mcpu=cortex-a7
+Id flags:  
+
+The output was:
+1
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crt1.o: No such file or directory
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crti.o: No such file or directory
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crtbegin.o: No such file or directory
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lgcc
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lgcc_s
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lc
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lgcc
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lgcc_s
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crtend.o: No such file or directory
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crtn.o: No such file or directory
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/bin/arm-ostl-linux-gnueabi/arm-ostl-linux-gnueabi-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crt1.o: No such file or directory
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crti.o: No such file or directory
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crtbegin.o: No such file or directory
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lstdc++
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lm
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lgcc_s
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lgcc
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lc
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lgcc_s
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find -lgcc
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crtend.o: No such file or directory
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: cannot find crtn.o: No such file or directory
+collect2: error: ld returned 1 exit status
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /home/alientek/ZAT/Applications/33_mqtt/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_43b31/fast && /usr/bin/make -f CMakeFiles/cmTC_43b31.dir/build.make CMakeFiles/cmTC_43b31.dir/build
+make[1]: Entering directory '/home/alientek/ZAT/Applications/33_mqtt/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_43b31.dir/testCXXCompiler.cxx.o
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/bin/arm-ostl-linux-gnueabi/arm-ostl-linux-gnueabi-g++ --sysroot=/opt/st/stm32mp1/3.1-snapshot/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi     -o CMakeFiles/cmTC_43b31.dir/testCXXCompiler.cxx.o -c /home/alientek/ZAT/Applications/33_mqtt/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_43b31
+/home/alientek/tools/cmake-3.16.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_43b31.dir/link.txt --verbose=1
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/bin/arm-ostl-linux-gnueabi/arm-ostl-linux-gnueabi-g++ --sysroot=/opt/st/stm32mp1/3.1-snapshot/sysroots/cortexa7t2hf-neon-vfpv4-ostl-linux-gnueabi       -rdynamic CMakeFiles/cmTC_43b31.dir/testCXXCompiler.cxx.o  -o cmTC_43b31 
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: error: cmTC_43b31 uses VFP register arguments, CMakeFiles/cmTC_43b31.dir/testCXXCompiler.cxx.o does not
+/opt/st/stm32mp1/3.1-snapshot/sysroots/x86_64-ostl_sdk-linux/usr/libexec/arm-ostl-linux-gnueabi/gcc/arm-ostl-linux-gnueabi/9.3.0/real-ld: failed to merge target specific data of file CMakeFiles/cmTC_43b31.dir/testCXXCompiler.cxx.o
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_43b31.dir/build.make:86: recipe for target 'cmTC_43b31' failed
+make[1]: *** [cmTC_43b31] Error 1
+make[1]: Leaving directory '/home/alientek/ZAT/Applications/33_mqtt/build/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_43b31/fast' failed
+make: *** [cmTC_43b31/fast] Error 2
+
+
+

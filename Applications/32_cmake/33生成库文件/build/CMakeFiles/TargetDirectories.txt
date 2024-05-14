@@ -1,0 +1,4 @@
+/home/alientek/ZAT/Applications/32_cmake/33生成库文件/build/CMakeFiles/rebuild_cache.dir
+/home/alientek/ZAT/Applications/32_cmake/33生成库文件/build/CMakeFiles/edit_cache.dir
+/home/alientek/ZAT/Applications/32_cmake/33生成库文件/build/CMakeFiles/libhello.dir
+/home/alientek/ZAT/Applications/32_cmake/33生成库文件/build/CMakeFiles/hello.dir

@@ -1,0 +1,8 @@
+/home/alientek/ZAT/Applications/32_cmake/34组织到不同目录/build/CMakeFiles/rebuild_cache.dir
+/home/alientek/ZAT/Applications/32_cmake/34组织到不同目录/build/CMakeFiles/edit_cache.dir
+/home/alientek/ZAT/Applications/32_cmake/34组织到不同目录/build/libhello/CMakeFiles/rebuild_cache.dir
+/home/alientek/ZAT/Applications/32_cmake/34组织到不同目录/build/libhello/CMakeFiles/libhello.dir
+/home/alientek/ZAT/Applications/32_cmake/34组织到不同目录/build/libhello/CMakeFiles/edit_cache.dir
+/home/alientek/ZAT/Applications/32_cmake/34组织到不同目录/build/src/CMakeFiles/rebuild_cache.dir
+/home/alientek/ZAT/Applications/32_cmake/34组织到不同目录/build/src/CMakeFiles/hello.dir
+/home/alientek/ZAT/Applications/32_cmake/34组织到不同目录/build/src/CMakeFiles/edit_cache.dir
