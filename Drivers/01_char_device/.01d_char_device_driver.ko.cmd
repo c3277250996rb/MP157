@@ -1,0 +1,1 @@
+cmd_/home/baohua/ZAT/mnt/01_char_device/01d_char_device_driver.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/baohua/ZAT/mnt/01_char_device/01d_char_device_driver.ko /home/baohua/ZAT/mnt/01_char_device/01d_char_device_driver.o /home/baohua/ZAT/mnt/01_char_device/01d_char_device_driver.mod.o

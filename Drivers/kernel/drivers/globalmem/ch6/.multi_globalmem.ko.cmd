@@ -1,0 +1,1 @@
+cmd_/home/baohua/ZAT/mnt/kernel/drivers/globalmem/ch6/multi_globalmem.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/baohua/ZAT/mnt/kernel/drivers/globalmem/ch6/multi_globalmem.ko /home/baohua/ZAT/mnt/kernel/drivers/globalmem/ch6/multi_globalmem.o /home/baohua/ZAT/mnt/kernel/drivers/globalmem/ch6/multi_globalmem.mod.o

@@ -1,0 +1,1 @@
+sudo ~/ZAT/zat_bash/all_chmod_continuously.sh "$1" "$2"
